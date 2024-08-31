@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f0f0f0"/>
+  
+  <!-- Title -->
+  <text x="400" y="40" font-family="Arial, sans-serif" font-size="24" text-anchor="middle" font-weight="bold">Principles of Billboard Design for Peripheral Vision</text>
+  
+  <!-- Billboard outline -->
+  <rect x="100" y="80" width="600" height="300" fill="#ffffff" stroke="#000000" stroke-width="2"/>
+  
+  <!-- Large, high-contrast element -->
+  <rect x="120" y="100" width="300" height="150" fill="#ff0000"/>
+  <text x="270" y="190" font-family="Arial, sans-serif" font-size="36" fill="#ffffff" text-anchor="middle">BRAND</text>
+  
+  <!-- Simpler design element -->
+  <circle cx="550" cy="175" r="75" fill="#0000ff"/>
+  <text x="550" y="185" font-family="Arial, sans-serif" font-size="24" fill="#ffffff" text-anchor="middle">Logo</text>
+  
+  <!-- Negative space -->
+  <text x="400" y="300" font-family="Arial, sans-serif" font-size="18" text-anchor="middle">Ample negative space</text>
+  
+  <!-- Annotations -->
+  <text x="150" y="420" font-family="Arial, sans-serif" font-size="16">1. Large, high-contrast elements</text>
+  <text x="150" y="450" font-family="Arial, sans-serif" font-size="16">2. Simple, clear design</text>
+  <text x="150" y="480" font-family="Arial, sans-serif" font-size="16">3. Strategic use of color</text>
+  <text x="450" y="420" font-family="Arial, sans-serif" font-size="16">4. Clear visual hierarchy</text>
+  <text x="450" y="450" font-family="Arial, sans-serif" font-size="16">5. Ample negative space</text>
+  
+  <!-- Peripheral vision indicator -->
+  <path d="M400,550 Q200,350 400,150 Q600,350 400,550" fill="none" stroke="#888888" stroke-width="2" stroke-dasharray="5,5"/>
+  <text x="400" y="570" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#888888">Peripheral Vision Range</text>
+</svg>
